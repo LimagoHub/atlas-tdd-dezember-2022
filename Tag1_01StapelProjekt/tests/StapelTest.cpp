@@ -36,7 +36,7 @@ TEST_F(StapelTest, is_empty__empty_again_stack__returnsFalse)
 	EXPECT_TRUE(result);
 }
 
-TEST_F(StapelTest, is_empty__fill_up_limit__no_exception_is_thrown)
+TEST_F(StapelTest, push__fill_up_limit__no_exception_is_thrown)
 {
 	// Arrange + Act + Assertion
 	fill_up_to_limit();
@@ -44,7 +44,7 @@ TEST_F(StapelTest, is_empty__fill_up_limit__no_exception_is_thrown)
 	
 }
 
-TEST_F(StapelTest, is_empty__overflow__stapelexception_exception_is_thrown)
+TEST_F(StapelTest, push__overflow__stapelexception_exception_is_thrown)
 {
 	// Arrange + Act + Assertion
 	fill_up_to_limit();
@@ -52,7 +52,7 @@ TEST_F(StapelTest, is_empty__overflow__stapelexception_exception_is_thrown)
 	
 }
 
-TEST_F(StapelTest, is_empty__overflow__stapelexception_exception_is_thrown_and_errormessage_is_overflow)
+TEST_F(StapelTest, push__overflow__stapelexception_exception_is_thrown_and_errormessage_is_overflow)
 {
 	try {
 		fill_up_to_limit();
