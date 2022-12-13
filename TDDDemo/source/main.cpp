@@ -1,5 +1,9 @@
 #include <iostream>
-
+#include "ToUpperTranslator.h"
+#include "TranslatorClient.h"
 int main() {
-	std::cout << "Hallo" << std::endl;
+	ToUpperTranslator translator;
+	TranslatorClient client{translator};
+
+	client.go();
 }

@@ -13,7 +13,7 @@ set(PROJ_CONFIG $<CONFIG>)
 add_executable(
 	TDDDemoProjekt 
 	source/main.cpp  
-)
+ "source/Stapel.h" "source/TranslatorClient.h" "source/Translator.h" source/StapelNeu.cpp source/StapelNeu.h)
 
 
 # Add tests

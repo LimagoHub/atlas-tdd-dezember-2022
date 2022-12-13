@@ -15,7 +15,9 @@ set_target_properties(gmock_main gtest_main PROPERTIES EXCLUDE_FROM_ALL 1 EXCLUD
 
 set(SOURCE
 	main.cpp
-)
+	StapelTest.h
+	StapelTest.cpp
+ "TranslatorClientTest.h" "TranslatorClient.cpp")
 
 
 
