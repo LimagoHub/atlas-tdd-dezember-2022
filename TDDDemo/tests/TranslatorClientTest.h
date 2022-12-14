@@ -19,8 +19,8 @@ protected:
 
     // Bei Unique-Pointern muss man den Inject in der Test-Methode durchführen
 
-	//std::unique_ptr<TranslatorMock> translatorMock = std::make_unique<TranslatorMock>();
-	//TranslatorClient object_under_test{std::move(translatorMock)};
+	std::unique_ptr<TranslatorMock> translatorMock = std::make_unique<TranslatorMock>();
+	TranslatorClient object_under_test{std::move(translatorMock)};
 
 
 
