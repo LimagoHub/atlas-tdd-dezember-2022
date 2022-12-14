@@ -16,6 +16,8 @@ public:
 
 	string second_method_under_test() const
 	{
+
+        // Aufruf der statischen Methode
 		return dependency_to_fake::get_lastname() + " Hallo";
 	}
 

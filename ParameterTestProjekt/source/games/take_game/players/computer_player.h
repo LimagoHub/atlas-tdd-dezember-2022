@@ -11,7 +11,7 @@ class computer_player {
 public:
 
 
-    int do_turn(const int &stones) const  {
+    unsigned do_turn(const unsigned &stones) const  {
 
         const int moves[] = {3,1,1,2};
         int move = moves[stones % 4];
