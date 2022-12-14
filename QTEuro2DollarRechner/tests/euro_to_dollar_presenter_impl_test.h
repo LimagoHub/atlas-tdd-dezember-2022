@@ -9,7 +9,7 @@
 #include "../presenter/euro_to_dollar_presenter_impl.h"
 #include "Mockeuro_to_dollar_calculator.h"
 #include "Mockeuro_to_dollar_view.h"
-
+using namespace testing;
 class euro_to_dollar_presenter_impl_test : public testing::Test{
 
 protected:

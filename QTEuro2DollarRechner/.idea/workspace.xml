@@ -3,17 +3,17 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="Euro2Dollar" targetName="gtest" />
-      <config projectName="Euro2Dollar" targetName="Euro2DollarTest" />
-      <config projectName="Euro2Dollar" targetName="gtest_main" />
       <config projectName="Euro2Dollar" targetName="gmock" />
-      <config projectName="Euro2Dollar" targetName="Euro2Dollar" />
       <config projectName="Euro2Dollar" targetName="gtest_autogen" />
-      <config projectName="Euro2Dollar" targetName="gmock_autogen" />
-      <config projectName="Euro2Dollar" targetName="gtest_main_autogen" />
       <config projectName="Euro2Dollar" targetName="Euro2DollarTest_autogen" />
-      <config projectName="Euro2Dollar" targetName="gmock_main" />
       <config projectName="Euro2Dollar" targetName="gmock_main_autogen" />
       <config projectName="Euro2Dollar" targetName="Euro2Dollar_autogen" />
+      <config projectName="Euro2Dollar" targetName="Euro2DollarTest" />
+      <config projectName="Euro2Dollar" targetName="gtest_main" />
+      <config projectName="Euro2Dollar" targetName="Euro2Dollar" />
+      <config projectName="Euro2Dollar" targetName="gmock_autogen" />
+      <config projectName="Euro2Dollar" targetName="gtest_main_autogen" />
+      <config projectName="Euro2Dollar" targetName="gmock_main" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -23,180 +23,180 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b3bbc18-b5fb-411b-bc8f-a8d64548d556" name="Changes" comment="Letzter Stand (Bugfixed)">
-      <change afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/source/services/blacklist_service.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/source/services/person_service_impl.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/Mockblacklist_service.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/AutogenInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/AutogenUsed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/ParseCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Euro2Dollar_autogen/EWIEGA46WW/moc_mainwindow.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Euro2Dollar_autogen/include/ui_mainwindow.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Euro2Dollar_autogen/moc_predefs.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Euro2Dollar_autogen/mocs_compilation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/AutogenInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/AutogenUsed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/ParseCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/Euro2DollarTest_autogen/moc_predefs.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/Euro2DollarTest_autogen/mocs_compilation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/CTestTestfile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/cmake_clean_target.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/AutogenInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/AutogenUsed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/ParseCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/cmake_clean_target.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/AutogenInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/CTestTestfile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/gmock_autogen/moc_predefs.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googlemock/gmock_autogen/mocs_compilation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/Export/lib/cmake/GTest/GTestTargets-noconfig.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/Export/lib/cmake/GTest/GTestTargets.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/cmake_clean_target.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/AutogenInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/AutogenUsed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/ParseCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/cmake_clean_target.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/AutogenInfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/compiler_depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/compiler_depend.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/CTestTestfile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/generated/GTestConfig.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/generated/GTestConfigVersion.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/generated/gmock.pc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/generated/gmock_main.pc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/generated/gtest.pc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/generated/gtest_main.pc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/gtest_autogen/moc_predefs.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tests/google/googletest/gtest_autogen/mocs_compilation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersonenServiceProjekt/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersonenServiceProjekt/source/persistence/person.h" beforeDir="false" afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/source/persistence/person.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersonenServiceProjekt/source/persistence/personen_repository.h" beforeDir="false" afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/source/persistence/personen_repository.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersonenServiceProjekt/source/services/personen_service_impl.h" beforeDir="false" afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/source/services/personen_service_impl.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/google/googlemock/include/gmock/gmock-spec-builders.h" beforeDir="false" afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/google/googlemock/include/gmock/gmock-spec-builders.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/personen_service_impl_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/personen_service_impl_test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/personen_service_impl_test.h" beforeDir="false" afterPath="$PROJECT_DIR$/../PersonenServiceProjekt/tests/personen_service_impl_test.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParameterTestProjekt/tests/games/take_game/players/computer_player_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParameterTestProjekt/tests/games/take_game/players/computer_player_test.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParameterTestProjekt/tests/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ParameterTestProjekt/tests/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.22.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/AutogenInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/AutogenUsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/ParseCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Euro2Dollar_autogen.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Euro2Dollar_autogen/EWIEGA46WW/moc_mainwindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Euro2Dollar_autogen/include/ui_mainwindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Euro2Dollar_autogen/moc_predefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Euro2Dollar_autogen/mocs_compilation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/AutogenInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/AutogenUsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/ParseCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/Euro2DollarTest_autogen.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/Euro2DollarTest_autogen/moc_predefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/Euro2DollarTest_autogen/mocs_compilation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/AutogenInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/AutogenUsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/ParseCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_autogen.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/AutogenInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/gmock_main_autogen.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/gmock_autogen/moc_predefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googlemock/gmock_autogen/mocs_compilation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/Export/lib/cmake/GTest/GTestTargets-noconfig.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/Export/lib/cmake/GTest/GTestTargets.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/AutogenInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/AutogenUsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/ParseCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_autogen.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/AutogenInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/gtest_main_autogen.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/generated/GTestConfig.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/generated/GTestConfigVersion.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/generated/gmock.pc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/generated/gmock_main.pc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/generated/gtest.pc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/generated/gtest_main.pc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/gtest_autogen/moc_predefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tests/google/googletest/gtest_autogen/mocs_compilation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainwindow.ui" beforeDir="false" afterPath="$PROJECT_DIR$/mainwindow.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presenter/euro_to_dollar_presenter.h" beforeDir="false" afterPath="$PROJECT_DIR$/presenter/euro_to_dollar_presenter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presenter/euro_to_dollar_presenter_impl.h" beforeDir="false" afterPath="$PROJECT_DIR$/presenter/euro_to_dollar_presenter_impl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/euro_to_dollar_presenter_impl_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tests/euro_to_dollar_presenter_impl_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/euro_to_dollar_presenter_impl_test.h" beforeDir="false" afterPath="$PROJECT_DIR$/tests/euro_to_dollar_presenter_impl_test.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/euro_to_dollar_view.h" beforeDir="false" afterPath="$PROJECT_DIR$/view/euro_to_dollar_view.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TakeGameProject/tests/abstract_game_test.h" beforeDir="false" afterPath="$PROJECT_DIR$/../TakeGameProject/tests/abstract_game_test.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,41 +228,41 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TakeGameProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tag1_01StapelProjekt" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Google Test.All in main.cpp">
+  <component name="RunManager" selected="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__valid_number__rechnen_enabled">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in main.cpp" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-MinGW" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_PATTERN="all-tests(file://$PROJECT_DIR$/tests/main.cpp)" TEST_MODE="PATTERN">
+    <configuration name="euro_to_dollar_presenter_impl_test.rechnen__happy_day__write_result_to_dollar_field" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="rechnen__happy_day__write_result_to_dollar_field" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="euro_to_dollar_presenter_impl_test.rechnen__happy_day__dollar_value_in_mask" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-MinGW" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="rechnen__happy_day__dollar_value_in_mask" TEST_MODE="SUITE_TEST">
+    <configuration name="euro_to_dollar_presenter_impl_test.rechnen__valid_euro_value__euro_value_passed_to_service" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="rechnen__valid_euro_value__euro_value_passed_to_service" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="euro_to_dollar_presenter_impl_test.rechnen__valid_euro_value_from_mask__euro_value_passed_to_service" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-MinGW" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="rechnen__valid_euro_value_from_mask__euro_value_passed_to_service" TEST_MODE="SUITE_TEST">
+    <configuration name="euro_to_dollar_presenter_impl_test.rechnen__valid_euro_value__write_result_to_dollar_field" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="rechnen__valid_euro_value__write_result_to_dollar_field" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="euro_to_dollar_presenter_impl_test.update_rechnen_action_state__nan_in_euro_field__rechnen_disabled" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-MinGW" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="update_rechnen_action_state__nan_in_euro_field__rechnen_disabled" TEST_MODE="SUITE_TEST">
+    <configuration name="euro_to_dollar_presenter_impl_test.update_rechnen_action_state__not_a_valid_number__rechnen_disabled" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-MinGW" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="update_rechnen_action_state__not_a_valid_number__rechnen_disabled" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="euro_to_dollar_presenter_impl_test.update_rechnen_action_state__valid_number_in_euro_field__rechnen_enabled" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" CONFIG_NAME="Debug-MinGW" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="update_rechnen_action_state__valid_number_in_euro_field__rechnen_enabled" TEST_MODE="SUITE_TEST">
+    <configuration name="euro_to_dollar_presenter_impl_test.update_rechnen_action_state__valid_number__rechnen_enabled" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Euro2Dollar" TARGET_NAME="Euro2DollarTest" RUN_TARGET_PROJECT_NAME="Euro2Dollar" RUN_TARGET_NAME="Euro2DollarTest" TEST_CLASS="euro_to_dollar_presenter_impl_test" TEST_METHOD="update_rechnen_action_state__valid_number__rechnen_enabled" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
         <option name="BeforeTestRunTask" enabled="true" />
@@ -340,19 +340,19 @@
       <item itemvalue="CMake Application.gtest_autogen" />
       <item itemvalue="CMake Application.gtest_main" />
       <item itemvalue="CMake Application.gtest_main_autogen" />
-      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__valid_euro_value_from_mask__euro_value_passed_to_service" />
-      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__happy_day__dollar_value_in_mask" />
-      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__nan_in_euro_field__rechnen_disabled" />
-      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__valid_number_in_euro_field__rechnen_enabled" />
-      <item itemvalue="Google Test.All in main.cpp" />
+      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__valid_euro_value__euro_value_passed_to_service" />
+      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__valid_euro_value__write_result_to_dollar_field" />
+      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__happy_day__write_result_to_dollar_field" />
+      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__not_a_valid_number__rechnen_disabled" />
+      <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__valid_number__rechnen_enabled" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Google Test.All in main.cpp" />
-        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__valid_number_in_euro_field__rechnen_enabled" />
-        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__nan_in_euro_field__rechnen_disabled" />
-        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__happy_day__dollar_value_in_mask" />
-        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__valid_euro_value_from_mask__euro_value_passed_to_service" />
+        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__valid_number__rechnen_enabled" />
+        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.update_rechnen_action_state__not_a_valid_number__rechnen_disabled" />
+        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__happy_day__write_result_to_dollar_field" />
+        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__valid_euro_value__write_result_to_dollar_field" />
+        <item itemvalue="Google Test.euro_to_dollar_presenter_impl_test.rechnen__valid_euro_value__euro_value_passed_to_service" />
       </list>
     </recent_temporary>
   </component>
@@ -373,6 +373,8 @@
       <workItem from="1665141677635" duration="7895000" />
       <workItem from="1671002843962" duration="33000" />
       <workItem from="1671002962456" duration="129000" />
+      <workItem from="1671020783818" duration="1363000" />
+      <workItem from="1671022256285" duration="6688000" />
     </task>
     <task id="LOCAL-00001" summary="Letzter Stand">
       <created>1654017415364</created>

@@ -24,6 +24,8 @@ protected:
         object_under_test.addPlayer(&game_player_mock);
         ON_CALL(game_player_mock, getName()).WillByDefault(Return("Mockplayer"));
     }
+
+
 };
 
 

@@ -11,7 +11,7 @@ public:
 	virtual void set_presenter(euro_to_dollar_presenter* presenter) = 0;
 
 
-	virtual  void dispose() = 0;
+	virtual  void dispose() = 0; // Maske zerstören und damit Anwendung schliessen
 
 	[[nodiscard]] virtual std::string get_euro() const = 0;
 

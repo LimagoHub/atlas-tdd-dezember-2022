@@ -2,8 +2,8 @@
 #include "ToUpperTranslator.h"
 #include "TranslatorClient.h"
 int main() {
-	ToUpperTranslator translator;
-	TranslatorClient client{translator};
+
+	TranslatorClient client{std::make_unique<ToUpperTranslator>()};
 
 	client.go();
 }

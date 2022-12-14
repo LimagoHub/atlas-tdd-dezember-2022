@@ -4,6 +4,7 @@
 #include "gmock/gmock.h"
 #include "../source/Translator.h"
 #include "../source/TranslatorClient.h"
+#include <memory>
 class TranslatorMock :public Translator
 {
 public:
@@ -15,8 +16,8 @@ using namespace testing;
 class TranslatorClientTest : public Test
 {
 protected:
-	TranslatorMock translatorMock;
-	TranslatorClient object_under_test{translatorMock};
+	std::unique_ptr<TranslatorMock> translatorMock;
+	TranslatorClient object_under_test{std::move(translatorMock)};
 
 
 

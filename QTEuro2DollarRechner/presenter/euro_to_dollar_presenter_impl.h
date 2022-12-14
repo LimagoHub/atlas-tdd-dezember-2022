@@ -44,14 +44,15 @@ public:
 	void rechnen() const override
 	{
         try {
-            double euro= std::stod(view_->get_euro());
-            double dollar = model_->convert(euro);
+            auto euro = std::stod(view_->get_euro());
+            auto dollar = model_->convert(euro);
             view_->set_dollar(std::to_string(dollar));
-        } catch (const std::invalid_argument &ex) {
+        } catch(const std::invalid_argument &ex) {
             view_->set_dollar("Keine Zahl");
-        } catch(...) {
-            view_->set_dollar("Fehler im Service");
+        } catch (...) {
+            view_->set_dollar("Interner Fehler");
         }
+
 	}
 
 	void beenden() const override
@@ -63,11 +64,11 @@ public:
 	{
         try {
             std::stod(view_->get_euro());
-
             view_->set_rechnen_enabled(true);
         } catch (const std::invalid_argument &ex) {
             view_->set_rechnen_enabled(false);
         }
+        //rechnen();
 	}
 };
 

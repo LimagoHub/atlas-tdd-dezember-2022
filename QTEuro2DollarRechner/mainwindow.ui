@@ -76,7 +76,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Euro:</string>
+     <string>Teuro:</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
