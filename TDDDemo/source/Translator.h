@@ -3,5 +3,8 @@
 class Translator
 {
 public:
-	virtual std::string translate(std::string message) const = 0;
+    Translator() = default;
+    virtual ~Translator() = default;
+
+    virtual std::string translate(std::string message) const = 0;
 };

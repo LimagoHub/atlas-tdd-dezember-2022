@@ -16,8 +16,11 @@ using namespace testing;
 class TranslatorClientTest : public Test
 {
 protected:
-	std::unique_ptr<TranslatorMock> translatorMock;
-	TranslatorClient object_under_test{std::move(translatorMock)};
+
+    // Bei Unique-Pointern muss man den Inject in der Test-Methode durchführen
+
+	//std::unique_ptr<TranslatorMock> translatorMock = std::make_unique<TranslatorMock>();
+	//TranslatorClient object_under_test{std::move(translatorMock)};
 
 
 

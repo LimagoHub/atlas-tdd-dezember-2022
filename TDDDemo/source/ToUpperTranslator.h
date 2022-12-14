@@ -5,6 +5,8 @@
 class ToUpperTranslator: public Translator
 {
 public:
+    ToUpperTranslator() { }
+
 	std::string translate(std::string message) const override
 	{
 		std::transform(message.begin(), message.end(), message.begin(), ::toupper);

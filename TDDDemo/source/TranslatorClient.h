@@ -8,12 +8,9 @@ class TranslatorClient
 	// IOC Inversion of Control	// DI Dependency Injection
 	
 public:
-	TranslatorClient(std::unique_ptr<Translator> translator)
-		: translator_(std::move(translator))
-	{
-	}
+    TranslatorClient(std::unique_ptr<Translator> translator) : translator_(std::move(translator)) {}
 
-	void go()
+    void go()
 	{
 		std::cout << translator_->translate("Hallo") << std::endl;
 	}
