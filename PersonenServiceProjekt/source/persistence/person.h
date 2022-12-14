@@ -15,30 +15,30 @@ class person {
     std::string nachname;
 
 public:
-    person(const std::string &vorname = "John", const std::string &nachname="Doe") : vorname(vorname), nachname(nachname) , id(""){}
+    person(const std::string &vorname, const std::string &nachname) : vorname(vorname), nachname(nachname) {}
 
     const std::string &getId() const {
         return id;
     }
 
-    void setId(const std::string &id) {
-        person::id = id;
+    void setId(const std::string &idx) {
+        id = idx;
     }
 
     const std::string &getVorname() const {
         return vorname;
     }
 
-    void setVorname(const std::string &vorname) {
-        person::vorname = vorname;
+    void setVorname(const std::string &vorname_) {
+        vorname = vorname_;
     }
 
     const std::string &getNachname() const {
         return nachname;
     }
 
-    void setNachname(const std::string &nachname) {
-        person::nachname = nachname;
+    void setNachname(const std::string &nachname_) {
+        nachname = nachname_;
     }
 
     bool operator==(const person &rhs) const {
@@ -50,36 +50,6 @@ public:
     bool operator!=(const person &rhs) const {
         return !(rhs == *this);
     }
-
-    friend std::ostream &operator<<(std::ostream &os, const person &person) {
-        os << "id: " << person.id << " vorname: " << person.vorname << " nachname: " << person.nachname;
-        return os;
-    }
-
-    bool operator<(const person &rhs) const {
-        if (id < rhs.id)
-            return true;
-        if (rhs.id < id)
-            return false;
-        if (vorname < rhs.vorname)
-            return true;
-        if (rhs.vorname < vorname)
-            return false;
-        return nachname < rhs.nachname;
-    }
-
-    bool operator>(const person &rhs) const {
-        return rhs < *this;
-    }
-
-    bool operator<=(const person &rhs) const {
-        return !(rhs < *this);
-    }
-
-    bool operator>=(const person &rhs) const {
-        return !(*this < rhs);
-    }
-
 };
 
 

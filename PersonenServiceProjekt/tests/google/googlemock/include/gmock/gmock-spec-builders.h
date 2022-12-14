@@ -74,6 +74,7 @@
 #include "gmock/internal/gmock-internal-utils.h"
 #include "gmock/internal/gmock-port.h"
 #include "gtest/gtest.h"
+#include "../../../../../source/persistence/person.h"
 
 #if GTEST_HAS_EXCEPTIONS
 # include <stdexcept>  // NOLINT
@@ -1082,7 +1083,9 @@ class TypedExpectation : public ExpectationBase {
     }
   }
 
- private:
+    void WilLOnce(void (*pFunction)(const person &));
+
+private:
   template <typename Function>
   friend class FunctionMocker;
 

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Euro2DollarTest.dir/objects.a
+C:\Applications\Qt\Tools\mingw900_64\bin\ar.exe qc CMakeFiles\Euro2DollarTest.dir/objects.a @CMakeFiles\Euro2DollarTest.dir\objects1.rsp
+C:\Applications\Qt\Tools\mingw900_64\bin\g++.exe -Wl,--whole-archive CMakeFiles\Euro2DollarTest.dir/objects.a -Wl,--no-whole-archive -o ..\Euro2DollarTest.exe -Wl,--out-implib,..\libEuro2DollarTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Euro2DollarTest.dir\linklibs.rsp
